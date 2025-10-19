@@ -1,9 +1,3 @@
-<p align="center" width="100%">
-    <img height="100" src="https://github.com/cwnotfound/developer-portfolio/assets/77630868/c0064908-cd5f-4751-a77c-eba90a62b55c">
-</p>
-
----
-
 # [Built Portfolio With GitHub ](https://github.com/cwnotfound/github-portfolio)
 
 ---
@@ -15,12 +9,6 @@
 ---
 
 # Demo :movie_camera:
-
-![](./public/image/screen.png)
-
-## View live preview [here](https://cwnotfound.netlify.app/).
-
----
 
 ## Table of Contents :scroll:
 
@@ -157,7 +145,7 @@ export const personalData = {
   description: "My name is Coding World....",
   email: "codingworldpremium@gmail.com",
   phone: "+91 9876543210",
-  address: "Dhaka, Bangladesh",
+  address: "Mumbai India",
   github: "https://github.com/cwnotfound",
   facebook: "https://www.facebook.com/cwnotfound/",
   linkedIn: "https://www.linkedin.com/in/cwnotfound/",
